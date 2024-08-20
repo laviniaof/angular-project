@@ -6,7 +6,7 @@ This project aims to improve my practice and understanding of working with Angul
 
 ## About the Project 🪄
 
-'EasyTask' is an easy-to-use and educational platform for adding tasks and sharing them with your friends. Here, you can work together to better organize your team!
+'TaskMe' is an easy-to-use and educational platform for adding tasks and sharing them with your friends. Here, you can work together to better organize your team!
 
 ## Open Source Code 🪄
 
