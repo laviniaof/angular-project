@@ -1,6 +1,6 @@
 ### This README is under construction! ⚠️🚧
 
-### Task Management Project ☑️
+# Task Management Project 'Taskme' ☑️
 
 This project aims to improve my practice and understanding of working with Angular. I believe that consistent practice can help us master a technology, and that is exactly my goal.
 
@@ -19,8 +19,8 @@ It is important to remember that you should also have NodeJS installed.
 Then, run the command ng serve to start the application locally.
 
 ## Rules 🚨
-# The branch format should be:
-feature/task-you-are-going-to-do.
+### The branch format should be:
+# feature/task-you-are-going-to-do.
 
 Following branch rules, it's important that only the objective of the branch is accomplished within it. Nothing more, nothing less.
 
