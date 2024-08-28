@@ -7,6 +7,7 @@ import { DUMMY_USERS } from './dummy-users';
 import { TasksComponent } from './tasks/tasks.component';
 import { TaskComponent } from './tasks/task/task.component';
 import { NewTaskComponent } from './tasks/new-task/new-task.component';
+import { CardComponent } from './shared/card/card.component';
 @Component({
   selector: 'app-root',
   standalone: true,
@@ -16,6 +17,7 @@ import { NewTaskComponent } from './tasks/new-task/new-task.component';
     TasksComponent,
     TaskComponent,
     NewTaskComponent,
+    CardComponent,
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
