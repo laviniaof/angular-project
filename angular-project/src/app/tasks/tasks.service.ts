@@ -55,6 +55,7 @@ export class TasksService {
     this.saveTasks();
   }
 
+  //Para atualização do local storage
   private saveTasks() {
     localStorage.setItem('tasks', JSON.stringify(this.tasks));
   }
