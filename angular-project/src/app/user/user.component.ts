@@ -1,4 +1,6 @@
+/** Angular Imports */
 import { Component, EventEmitter, Input, Output } from '@angular/core';
+/** App Imports */
 import { User } from './user.model';
 
 @Component({
