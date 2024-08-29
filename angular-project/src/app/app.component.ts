@@ -10,15 +10,6 @@ import { NewTaskComponent } from './tasks/new-task/new-task.component';
 import { CardComponent } from './shared/card/card.component';
 @Component({
   selector: 'app-root',
-  standalone: true,
-  imports: [
-    HeaderComponent,
-    UserComponent,
-    TasksComponent,
-    TaskComponent,
-    NewTaskComponent,
-    CardComponent,
-  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
