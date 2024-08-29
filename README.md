@@ -1,10 +1,10 @@
-### This README is under construction! ⚠️🚧
+# This README is under construction! ⚠️🚧
 
-# Important Info
+## Important Info ⚠️
 
 This project was created based on an Angular Course, and the main goal is to practice and study. Here I was able to practice the basic Angular behavior and logic, and get more experience with github commit/merge/PR. 
 
-# Task Management Project 'Taskme' ☑️
+## Task Management Project 'Taskme' ☑️
 
 This project aims to improve my practice and understanding of working with Angular. I believe that consistent practice can help us master a technology, and that is exactly my goal.
 
@@ -14,7 +14,17 @@ This project aims to improve my practice and understanding of working with Angul
 
 ## Open Source Code 🪄
 
-Feel free to help me build this platform! One of my goals is to implement the NGRX tool to manage the application state.
+Feel free to help me build this platform! Here's a basic mental map to understand the components.
+
+![TaskMe](https://github.com/user-attachments/assets/283a670c-b37f-4ece-90b2-01ce2e220296)
+
+## Goals 🪄
+
+- One of my goals is to implement NGRX to manage the state of application. It will be an adventure and will help me to improve my behavior behind this tool. 
+- While this app grows, I will implement the backend with C# and create a simple data base.
+- After this, I want to implement Apollo Service and GraphQL to manage the data base and the user be able to request the data that the user wants.
+- Who knows, probably I will implement IDP and Oso Cloud tool... 👀
+- If you have experience with these tools, fell free to implement it! 
 
 ## How to Get Started 🪄
 
