@@ -1,5 +1,9 @@
 ### This README is under construction! ⚠️🚧
 
+# Important Info
+
+This project was created based on an Angular Course, and the main goal is to practice and study. Here I was able to practice the basic Angular behavior and logic, and get more experience with github commit/merge/PR. 
+
 # Task Management Project 'Taskme' ☑️
 
 This project aims to improve my practice and understanding of working with Angular. I believe that consistent practice can help us master a technology, and that is exactly my goal.
